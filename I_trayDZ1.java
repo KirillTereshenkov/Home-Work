@@ -38,6 +38,6 @@ public class I_trayDZ1 {
         } else {
             System.out.println("a < b: " + a +" "+ b);
         }
-        System.out.println("=================");
+        System.out.println("==================");
     }
 }
